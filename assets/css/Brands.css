@@ -71,8 +71,3 @@
   margin-top: 5px;
 }
 
-.badge:hover {
-  background-color: rgb(2,167,188);
-  transform: scale(1.07);
-}
-
