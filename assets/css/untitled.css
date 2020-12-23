@@ -1,0 +1,33 @@
+.text-muted {
+  font-size: 22px;
+}
+
+.jumbotron {
+  margin: 0px 30px 15px 30px;
+}
+
+.badge {
+  padding: 7px;
+  margin: 8px 5px 0px 5px;
+  font-size: medium;
+  background-color: rgb(42,91,186);
+}
+
+.jumbohead {
+  font-size: 30px;
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+.ccontrol {
+  margin-top: -110px;
+}
+
+.carousel-item {
+  /*height: 400px;*/
+}
+
+.w-100.d-block {
+  height: 500px;
+}
+
